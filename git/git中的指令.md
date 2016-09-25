@@ -151,7 +151,7 @@ git checkout -b [--track] test origin/dev#基于远端dev分支，新建本地te
 ```
 ##源
 ```
-git remote add origin1 git@github.com:yanhaijing/data.js.git
+git remote add origin1 git@github.com:ReedSun/***.git
 
 git remote#显示全部源
 git remote -v#显示全部源+详细信息
