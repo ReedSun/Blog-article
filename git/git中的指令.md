@@ -35,12 +35,12 @@ git init #初始化
 git status #获取状态
 git add [file1] [file2] ... #或*代表全部添加
 git commit -m "message" #提交
-git remote add origin git#github.com:ReedSun/***git  #添加源
+git remote add origin git@github.com:ReedSun/***.git  #添加源
 git push -u origin master #push同时默认跟踪分支
 ```
 ##从现用仓库克隆
 ```
-git clone git://github.com/ReedSun/***git
+git clone git://github.com/ReedSun/***.git
 ```
 ##本地
 ```
