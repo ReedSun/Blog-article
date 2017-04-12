@@ -1,3 +1,2 @@
-﻿# learn-note
-这个项目是我自己的学习笔记。
-# 加油！
+﻿# Blog-article
+Welcome to visit my [blog](http://blog.csdn.net/weixin_35955795).
