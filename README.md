@@ -4,7 +4,7 @@
 
 Welcome to visit my [blog](http://blog.csdn.net/weixin_35955795).
 
-I hope my article can be helpful to you. If there is anything wrong in my article, you can notify me by using `issue` or `pull requests`.
+I hope my article can be helpful to you. If there is anything wrong in my article, you can notify me by using `issue`.
 
 All my article is licensed under the Creative Commons [by-nc-nd license] License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
